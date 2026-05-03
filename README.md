@@ -20,5 +20,7 @@ Advanced features (authentication, payments, etc.) are considered in future scop
 
 
 Author
+
 Vyom Vyas
+
 Thank you
