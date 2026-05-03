@@ -6,7 +6,7 @@ This directory is currently a placeholder for the application's backend architec
 
 The current implementation of Saffron Kitchen utilizes a **Serverless Architecture** via **Firebase (Firestore)** for all database operations, real-time menu management, and order processing.
 
-As per the current **submission requirements**, a dedicated custom backend server is **out of scope**. All business logic and data persistence are handled directly by the frontend's integration with Firebase services.
+As per the current submission requirements, a dedicated custom backend server is out of scope. All business logic and data persistence are handled directly by the frontend's integration with Firebase services.
 
 ## 🔮 Future Roadmap
 

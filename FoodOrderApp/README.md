@@ -2,7 +2,7 @@
 
 ![Saffron Kitchen Banner](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3)
 
-A premium, modern food ordering mobile application built with **React Native (Expo)** and **Firebase**. Saffron Kitchen offers an intuitive and fluid user experience designed for seamless browsing, cart management, and order placement.
+A modern food ordering mobile application built with **React Native (Expo)** and **Firebase**. Saffron Kitchen offers an intuitive and fluid user experience designed for seamless browsing, cart management, and order placement.
 
 ---
 
